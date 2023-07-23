@@ -12,3 +12,4 @@
   ![image](https://github.com/KevKibe/Implementation-of-Fast-Image-Generation-using-Stable-Diffusion-KerasCV/assets/86055894/6efdf295-9a0a-4c19-ab5b-df9097b1c236)
 
 
+**:zap: I'm currently open for roles in Data Science, Machine Learning, NLP and Computer Vision.**
